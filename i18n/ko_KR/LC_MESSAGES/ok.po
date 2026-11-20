@@ -21,9 +21,7 @@ msgstr "단축키 오류! 단축키 설정이 올바른지 확인해주세요!"
 msgid "Can not switch to levitator please ensure you have equipped echos!"
 msgstr "레비테이터로 전환할 수 없습니다. 에코를 장착했는지 확인하세요!"
 
-msgid ""
-"(1-6) Important, Choose which level to farm, lower levels might not produce "
-"a echo"
+msgid "(1-6) Important, Choose which level to farm, lower levels might not produce a echo"
 msgstr "(1-6) 중요: 파밍할 레벨을 선택하세요. 낮은 레벨에서는 에코가 나오지 않을 수 있습니다."
 
 msgid "Boss1"
@@ -68,9 +66,7 @@ msgstr "공명 해방 키 (기본 r)"
 msgid "Auto Target"
 msgstr "자동 타겟팅"
 
-msgid ""
-"Turn off to enable auto combat only when manually target enemy using middle "
-"click"
+msgid "Turn off to enable auto combat only when manually target enemy using middle click"
 msgstr "끄면 마우스 휠 클릭으로 적을 수동 지정했을 때에만 자동 전투가 작동합니다"
 
 msgid "Repeat Farm Count"
@@ -199,12 +195,10 @@ msgstr "월정액 카드 설정"
 msgid "Monthly Card Time"
 msgstr "월정액 시간"
 
-msgid ""
-"Your computer's local time when the monthly card will popup, hour in (1-24)"
+msgid "Your computer's local time when the monthly card will popup, hour in (1-24)"
 msgstr "월정액 팝업이 표시될 현지 시간 (1~24시)"
 
-msgid ""
-"must be in game world and in teams, please check you game resolution is 16:9"
+msgid "must be in game world and in teams, please check you game resolution is 16:9"
 msgstr "게임 월드의 팀 상태여야 합니다. 게임 해상도가 16:9인지 확인하세요"
 
 msgid "Capture Frame Count"
@@ -249,9 +243,7 @@ msgstr "아니요"
 msgid "True"
 msgstr "예"
 
-msgid ""
-"Can't load game hotkey, please equip echos for all characters and use A-Z as"
-" hotkeys for skills, detected key:{}"
+msgid "Can't load game hotkey, please equip echos for all characters and use A-Z as hotkeys for skills, detected key:{}"
 msgstr "게임 단축키를 불러올 수 없습니다. 모든 캐릭터에 에코를 장착하고 스킬 단축키를 A-Z로 설정하세요. 감지된 키: {}"
 
 msgid "Tool Key"
@@ -323,9 +315,7 @@ msgstr "로렐라이"
 msgid "click f2 to open the book"
 msgstr "F2를 눌러 도감을 여세요"
 
-msgid ""
-"Check configs to keep, click start in game world, must be in a 16:9 screen "
-"ratio"
+msgid "Check configs to keep, click start in game world, must be in a 16:9 screen ratio"
 msgstr "유지할 설정을 확인한 뒤 게임 월드에서 시작을 클릭하세요. 화면 비율은 16:9여야 합니다"
 
 msgid "Boss"
@@ -448,17 +438,10 @@ msgstr "자동 에코 데이터 합성"
 msgid "Data Merge Completed!"
 msgstr "데이터 합성 완료!"
 
-msgid ""
-"Auto combat error: Make sure you're equipping echos and turn off effect that"
-" changes the game color, (Game Gammar/Nvidia AMD Game Filter), turn off "
-"Motion Blur in game video options"
-msgstr ""
-"자동 전투 오류: 에코를 장착하고 게임 색상을 바꾸는 효과(게임 감마/NVIDIA/AMD 게임 필터)를 끄고, 비디오 옵션에서 모션 "
-"블러를 꺼주세요."
+msgid "Auto combat error: Make sure you're equipping echos and turn off effect that changes the game color, (Game Gammar/Nvidia AMD Game Filter), turn off Motion Blur in game video options"
+msgstr "자동 전투 오류: 에코를 장착하고 게임 색상을 바꾸는 효과(게임 감마/NVIDIA/AMD 게임 필터)를 끄고, 비디오 옵션에서 모션 블러를 꺼주세요."
 
-msgid ""
-"Auto combat error: Make sure to turn off effect that changes the game color,"
-" (Game Gammar/Nvidia AMD Game Filter/HDR)"
+msgid "Auto combat error: Make sure to turn off effect that changes the game color, (Game Gammar/Nvidia AMD Game Filter/HDR)"
 msgstr "자동 전투 오류: 게임 색상을 바꾸는 효과(게임 감마/NVIDIA/AMD 게임 필터/HDR)를 꺼주세요."
 
 msgid "Auto Login"
@@ -488,9 +471,7 @@ msgstr "일일 임무"
 msgid "Dreamless"
 msgstr "무망자"
 
-msgid ""
-"Farms the selected Tacet Suppression, until no stamina. Must be able to "
-"teleport (F2)."
+msgid "Farms the selected Tacet Suppression, until no stamina. Must be able to teleport (F2)."
 msgstr "선택한 무음구역을 스태미나가 소진될 때까지 파밍합니다. 텔레포트(F2)가 가능해야 합니다."
 
 msgid "Login, claim monthly card, farm echo, and claim daily reward"
@@ -538,9 +519,7 @@ msgstr "전투 후 자동 에코 줍기"
 msgid "Farm Map with Star Path"
 msgstr "별 경로로 맵 파밍"
 
-msgid ""
-"Farm world map with a marked path of stars (diamond as the starting point), "
-"start in the map screen"
+msgid "Farm world map with a marked path of stars (diamond as the starting point), start in the map screen"
 msgstr "별로 표시한 경로를 따라 월드 맵을 파밍합니다. 시작점은 다이아몬드이며, 지도 화면에서 시작하세요."
 
 msgid "Stars"
@@ -564,8 +543,7 @@ msgstr "전투 대기 시간 (초)"
 msgid "Simulation Challenge"
 msgstr "시뮬레이션 영역"
 
-msgid ""
-"Farms the selected Simulation Challenge. Must be able to teleport (F2)."
+msgid "Farms the selected Simulation Challenge. Must be able to teleport (F2)."
 msgstr "선택한 시뮬레이션 영역을 파밍합니다. 텔레포트(F2)가 가능해야 합니다."
 
 msgid "Material Selection"
@@ -598,8 +576,7 @@ msgstr "F2 목록에서 몇 번째 응소의 영역인지."
 msgid "not enough stamina"
 msgstr "스태미나 부족"
 
-msgid ""
-"Click skill failed, check if the keybinding is correct in ok-ww settings!"
+msgid "Click skill failed, check if the keybinding is correct in ok-ww settings!"
 msgstr "스킬 사용 실패, ok-ww 설정에서 키 바인딩이 올바른지 확인하세요!"
 
 msgid "Change Time to Night"
@@ -764,12 +741,8 @@ msgstr "선택한 계정 확인됨: {account}"
 msgid "Account display does not match, retrying ({attempt}/{max_retries})"
 msgstr "표시된 계정이 일치하지 않아 재시도 중 ({attempt}/{max_retries})"
 
-msgid ""
-"Account selection failed after {max_retries} retries; {account} is still not"
-" displayed. Continuing login attempt"
-msgstr ""
-"계정 선택이 {max_retries}회 재시도 후 실패했습니다. {account}이(가) 아직 표시되지 않습니다. 로그인을 계속 "
-"시도합니다"
+msgid "Account selection failed after {max_retries} retries; {account} is still not displayed. Continuing login attempt"
+msgstr "계정 선택이 {max_retries}회 재시도 후 실패했습니다. {account}이(가) 아직 표시되지 않습니다. 로그인을 계속 시도합니다"
 
 msgid "Failed to switch account"
 msgstr "계정 전환 실패"
@@ -990,9 +963,7 @@ msgstr "작업이 중지될 때까지 정원 동작을 감지하고 클릭합니
 msgid "Check Weekly Garden"
 msgstr "주간 정원 확인"
 
-msgid ""
-"After claiming daily rewards, check weekly Garden progress and run Garden "
-"Task if 6000 points has not been reached."
+msgid "After claiming daily rewards, check weekly Garden progress and run Garden Task if 6000 points has not been reached."
 msgstr "일일 보상을 수령한 뒤 주간 정원 진행도를 확인하고, 6000점에 도달하지 않았으면 정원 임무를 실행합니다."
 
 msgid "Guidebook Key"
@@ -1007,9 +978,7 @@ msgstr "양양·현령"
 msgid "Merge Discarded Echoes"
 msgstr "폐기된 에코 합성"
 
-msgid ""
-"Must have 1000 discarded Echo to Run, Merge discarded Echoes in full "
-"batches of 100."
+msgid "Must have 1000 discarded Echo to Run, Merge discarded Echoes in full batches of 100."
 msgstr "실행하려면 폐기된 에코가 1000개 있어야 합니다. 폐기된 에코를 100개 단위로 합성합니다."
 
 msgid "Bag Key"
@@ -1168,7 +1137,6 @@ msgstr "특이 악몽"
 msgid "Which Special Nightmare to Teleport"
 msgstr "텔레포트할 특이 악몽 번호"
 
-
 msgid "Failed to read game assets quality config. Starting with HD assets."
 msgstr "게임 리소스 품질 설정을 읽지 못했습니다. HD 리소스로 시작합니다."
 
@@ -1323,8 +1291,7 @@ msgid "Start after filtering Echoes on the bag's Echo screen!"
 msgstr "가방의 에코 화면에서 필터를 적용한 후 시작하세요!"
 
 #, python-brace-format
-msgid ""
-"No more Echoes to modify. Finished! Enhanced: {total}, matching: {matching}"
+msgid "No more Echoes to modify. Finished! Enhanced: {total}, matching: {matching}"
 msgstr "변경할 에코가 없습니다. 완료! 강화: {total}, 조건 충족: {matching}"
 
 msgid "Cannot find the current main stat!"
@@ -1380,9 +1347,7 @@ msgid "\"self.stamina_once\" must be override"
 msgstr "self.stamina_once를 재정의해야 합니다"
 
 #, python-brace-format
-msgid ""
-"farm_domain: exceeded recovery retries ({max_recovery_retries}), stop "
-"farming"
+msgid "farm_domain: exceeded recovery retries ({max_recovery_retries}), stop farming"
 msgstr "던전 파밍: 복구 재시도 한도({max_recovery_retries})를 초과하여 중지합니다"
 
 msgid "farm_in_domain: death recovered, exiting domain"
@@ -1410,8 +1375,7 @@ msgid "Matching Echo found; task paused"
 msgstr "조건에 맞는 에코를 찾아 임무를 일시 정지했습니다"
 
 #, python-brace-format
-msgid ""
-"No more Echoes to enhance. Finished! Enhanced: {total}, matching: {matching}"
+msgid "No more Echoes to enhance. Finished! Enhanced: {total}, matching: {matching}"
 msgstr "강화할 에코가 없습니다. 완료! 강화: {total}, 조건 충족: {matching}"
 
 #, python-brace-format
@@ -1419,11 +1383,8 @@ msgid "ocr values: {texts}"
 msgstr "OCR 인식 결과: {texts}"
 
 #, python-brace-format
-msgid ""
-"Cannot obtain both CRIT stats ({missing_crit} missing, {remaining_slots} "
-"slots left); discarding"
-msgstr ""
-"치명타 속성 2종을 갖출 수 없습니다(부족: {missing_crit}, 남은 슬롯: {remaining_slots}). 폐기합니다"
+msgid "Cannot obtain both CRIT stats ({missing_crit} missing, {remaining_slots} slots left); discarding"
+msgstr "치명타 속성 2종을 갖출 수 없습니다(부족: {missing_crit}, 남은 슬롯: {remaining_slots}). 폐기합니다"
 
 #, python-brace-format
 msgid "Combined CRIT score {total_score:.1f} < {minimum}; discarding"
@@ -1529,8 +1490,7 @@ msgid "Unknown Teleport to Boss config: {teleport_to_boss}"
 msgstr "알 수 없는 보스 워프 설정: {teleport_to_boss}"
 
 #, python-brace-format
-msgid ""
-"farm 4c: exceeded recovery retries ({max_recovery_retries}), stop farming"
+msgid "farm 4c: exceeded recovery retries ({max_recovery_retries}), stop farming"
 msgstr "4코스트 에코 파밍: 복구 재시도 한도({max_recovery_retries})를 초과하여 중지합니다"
 
 msgid "Farm failed after walking into boss combat, teleporting again"
@@ -1714,8 +1674,7 @@ msgid "farm_tacet: death recovered, re-enter from F2 book"
 msgstr "무음 구역 파밍: 부활 후 F2 가이드북에서 다시 입장합니다"
 
 #, python-brace-format
-msgid ""
-"farm_tacet: exceeded recovery retries ({max_recovery_retries}), stop farming"
+msgid "farm_tacet: exceeded recovery retries ({max_recovery_retries}), stop farming"
 msgstr "무음 구역 파밍: 복구 재시도 한도({max_recovery_retries})를 초과하여 중지합니다"
 
 #, python-brace-format
@@ -1732,9 +1691,7 @@ msgstr "accounts는 계정 목록이어야 합니다."
 msgid "Account configuration must be an object."
 msgstr "계정 설정은 객체여야 합니다."
 
-msgid ""
-"Use the login list text with all * removed as the account ID; it must not be"
-" empty or have leading or trailing spaces."
+msgid "Use the login list text with all * removed as the account ID; it must not be empty or have leading or trailing spaces."
 msgstr "로그인 목록에서 모든 *를 제거한 텍스트를 계정 ID로 사용하세요. 비어 있거나 앞뒤 공백이 있으면 안 됩니다."
 
 #, python-brace-format
@@ -1752,9 +1709,7 @@ msgstr "계정 {account}에 실행 임무 필드가 없습니다. 임무 또는 
 msgid "Task reference must contain module and class."
 msgstr "임무 참조에는 module과 class가 필요합니다."
 
-msgid ""
-"Multi-account configuration cannot select itself or the legacy multi-account"
-" task."
+msgid "Multi-account configuration cannot select itself or the legacy multi-account task."
 msgstr "다중 계정 설정에서 자기 자신 또는 이전 다중 계정 임무를 선택할 수 없습니다."
 
 #, python-brace-format
@@ -1783,8 +1738,7 @@ msgstr "실행할 계정이 더 없어 다중 계정 일일 임무를 종료합�
 msgid "Wuthering Waves"
 msgstr "명조"
 
-#: src/task/MergeEchoTask.py src/task/EnhanceEchoTask.py
-#: src/task/ChangeEchoTask.py
+#: src/task/MergeEchoTask.py src/task/EnhanceEchoTask.py src/task/ChangeEchoTask.py
 msgid "Echo Management"
 msgstr "에코 관리"
 
@@ -1792,10 +1746,7 @@ msgstr "에코 관리"
 msgid "Multi-account"
 msgstr "다중 계정"
 
-#: src/task/DailyTask.py src/task/FarmEchoTask.py src/task/ForgeryTask.py
-#: src/task/GardenTask.py src/task/NightmareNestTask.py
-#: src/task/SimulationTask.py
-#: src/task/TacetTask.py
+#: src/task/DailyTask.py src/task/FarmEchoTask.py src/task/ForgeryTask.py src/task/GardenTask.py src/task/NightmareNestTask.py src/task/SimulationTask.py src/task/TacetTask.py
 msgid "Daily Activities"
 msgstr "일일 활동"
 
@@ -1811,10 +1762,14 @@ msgstr "계정 구성"
 msgid "Save and Close"
 msgstr "저장 후 닫기"
 
-msgid ""
-"Configure tasks separately for each account. When disabled, run the original"
-" multi-account daily task."
+msgid "Configure tasks separately for each account. When disabled, run the original multi-account daily task."
 msgstr "계정마다 작업을 따로 설정합니다. 끄면 기존 다중 계정 일일 작업을 실행합니다."
 
 msgid "Edit account order, enabled accounts, tasks and task settings."
 msgstr "계정 순서, 활성화 상태, 실행할 작업 및 작업 설정을 편집합니다."
+
+msgid "Rahai Blocks (Score Mode)"
+msgstr "라하이로 블록 (점수 모드)"
+
+msgid "Open the score board before starting. Keep the PC game in the foreground while the task plays."
+msgstr "시작 전에 점수 모드의 보드를 열고 실행 중에 PC 게임 창을 전면에 유지하세요."
